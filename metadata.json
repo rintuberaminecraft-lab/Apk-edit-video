@@ -1,0 +1,6 @@
+{
+  "name": "TubeCut",
+  "description": "Professional YouTube video and Shorts editor with 70+ PIP layers, custom Bezier keyframe curve graphs, multi-track audio equalizer, lossless decode, and 1080P/60FPS export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
